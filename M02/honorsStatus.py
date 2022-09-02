@@ -28,11 +28,11 @@ try:
             
             # Evaluate GPA vs status (Dean's list, Honor Roll, or neither.)
             if gpa_request >= 3.5:
-                print(f"{first_name_request} {last_name_request} has qualified for Dean's List. \n")
+                print(f"{first_name_request} {last_name_request} has qualified for Dean's List with a GPA of {gpa_request}. \n")
             elif gpa_request >= 3.25:
-                print(f"{first_name_request} {last_name_request} has qualified for Honor Roll. \n")
+                print(f"{first_name_request} {last_name_request} has qualified for Honor Roll with a GPA of {gpa_request}. \n")
             else:
-                print(f"{first_name_request} {last_name_request} has not qualified for Dean's List or Honor Roll. \n")
+                print(f"{first_name_request} {last_name_request} has not qualified for Dean's List or Honor Roll with a GPA of {gpa_request}. \n")
 
 # If a user enters anything other than a number for GPA, this will raise an exception that will end the application.
 except ValueError:
