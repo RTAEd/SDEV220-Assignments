@@ -3,6 +3,9 @@
 ## M01
 * *NumbersAndTypes.ipnb*
 
-## M2
+## M02
 * *honorStatus.ipynb* - Lab homework
-* *loopsAndConditionals.ipnb* - Programming assignment
+* *loopsAndConditionals.ipnb* - Programming assignment with loops and conditionals.
+
+## M03  
+* *M03_Programming _Assignments.ipynb* - Programming assignment with lists and functions. 
