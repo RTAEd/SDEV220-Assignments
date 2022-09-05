@@ -1,11 +1,13 @@
 # Assignments Directory 
 
 ## M01
-* *NumbersAndTypes.ipnb*
+- [x] *NumbersAndTypes.ipnb*
 
 ## M02
-* *honorStatus.ipynb* - Lab homework
-* *loopsAndConditionals.ipnb* - Programming assignment with loops and conditionals.
+- [x] *honorStatus.ipynb* - Lab homework
+- [x] *loopsAndConditionals.ipnb* - Programming assignment with loops and conditionals.
 
 ## M03  
-* *M03_Programming _Assignments.ipynb* - Programming assignment with lists and functions. 
+- [x] *M03_Programming _Assignments.ipynb* - Programming assignment with lists and functions.
+- [x] *M03_Tutorial.ipynb* - Based on Udemy class. OOP v Functionnal programming.
+- [x] *M03_Lab_ListsFunctionsClasses.ipynb* - Lab assignment to create classes to classify and describe vehicles.
