@@ -1,0 +1,45 @@
+
+M04/__pycache__/M04Lab.cpython-310.pyc
+.notes.txt
+M05/Testing Tutorial/__pycache__/test_sum_2.cpython-310-pytest-7.1.3.pyc
+M05/Testing Tutorial/__pycache__/test_sum_2.cpython-310.pyc
+M05/Testing Tutorial/__pycache__/test_sum_unittest.cpython-310-pytest-7.1.3.pyc
+M05/Testing Tutorial/__pycache__/test_sum_unittest.cpython-310.pyc
+M05/Testing Tutorial/__pycache__/test_sum.cpython-310-pytest-7.1.3.pyc
+M05/Testing Tutorial/__pycache__/test_sum.cpython-310.pyc
+M05/Testing Tutorial/project/__pycache__/test.cpython-310.pyc
+M05/Testing Tutorial/project/my_sum/__pycache__/__init__.cpython-310.pyc
+
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+mySdev220/
+
+venv/
+
+# Database
+db.sqlite3
+
+# Static folder at project root
+/static/
+
+# macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
